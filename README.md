@@ -1,6 +1,6 @@
 # MNIST-Handwritten-Digit-Recognition-Using-CNNs
 Creating a machine learning model based on CNNs (Convolutional Neural Networks) for recognizing handwritten digits. See PDF for more information.
 
-Here is a preview of the PDF. Click the image to view the full document.
+Here is a link to the project documentation:
 
-[![PDF Preview](docs/preview-image.jpg)](docs/example.pdf)
+[View the PDF documentation](docs/example.pdf)
